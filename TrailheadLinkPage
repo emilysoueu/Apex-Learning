@@ -1,0 +1,26 @@
+apex:page showHeader="false" standardStylesheets="false" sidebar="false" docType="html-5.0" applyBodyTag="False" applyHtmlTag="False
+
+<html  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+   <style>
+      
+   </style>
+
+   <head>
+      <title>Emily Costa - Trailhead Profile</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <meta name="keywords" content="Salesforce, Trailhead, Emily Costa"/>
+      <meta name="author" content="Emily Costa"/>
+      <meta name="description" content="O Trailhead é a maneira divertida de aprender!"/>
+      <meta http-equiv="refresh" content="3;URL='https://trailblazer.me/id/ecostas'" />
+      <apex:slds />
+   </head>
+
+   <body class="slds-scope">
+
+        COLOQUE SUA CRIATIVIDADE AQUI
+
+</body>
+
+</html>
+</apex:page>>"
